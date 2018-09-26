@@ -12,6 +12,9 @@
                     echo "Yeeeee";
                     echo "2º Yeee";
                 }
+                function metodo1(){
+                    //codigo
+                }
             }
         ?>
     </body>
