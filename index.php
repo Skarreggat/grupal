@@ -10,7 +10,7 @@
                 function __construct() {
                     
                     echo "Yeeeee";
-                    
+                    echo "2º Yeee";
                 }
             }
         ?>
