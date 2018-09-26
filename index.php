@@ -15,6 +15,9 @@
                 function metodo1(){
                     //codigo
                 }
+                function metodo2(){
+                    //codigo2
+                }
             }
         ?>
     </body>
