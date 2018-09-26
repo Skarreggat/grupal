@@ -22,7 +22,7 @@
                     //codigo3
                 }
                 function fantasma(){
-                    echo "fantasmita 11";
+                   
                 }
             }
         ?>
