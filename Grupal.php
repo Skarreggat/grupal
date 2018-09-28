@@ -15,7 +15,7 @@
                     echo "Alex";
                 }
                 function grupal_3(){
-                    echo "Adrian";
+                    echo "Agdn";
                 }
             }  
         ?>
