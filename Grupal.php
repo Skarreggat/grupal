@@ -9,13 +9,13 @@
             
             class grupalsito{
                 function grupal_1(){
-                    echo "Dani";
+                    echo "Dadgdfgni";
                 }
                 function grupal_2(){
                     echo "Alex";
                 }
                 function grupal_3(){
-                    echo "Agdn";
+                    echo "Agbfbdn";
                 }
             }  
         ?>
