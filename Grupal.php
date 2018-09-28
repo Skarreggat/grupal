@@ -18,7 +18,7 @@
                     echo "Dani";
                 }
                 function grupal_4(){
-                    echo "algo";
+                    echo "algo diferente";
                 }
             }  
         ?>
