@@ -25,6 +25,18 @@
                     echo "fantasmita 11";
                 }
             }
+            
+            class grupalsito{
+                function grupal_1(){
+                    echo "Dani";
+                }
+                function grupal_2(){
+                    echo "Alex";
+                }
+                function grupal_3(){
+                    echo "Adrian"
+                }
+            }
         ?>
     </body>
 </html>
