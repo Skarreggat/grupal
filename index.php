@@ -21,9 +21,6 @@
                 function metodo3(){
                     //codigo3
                 }
-                function fantasma(){
-                   
-                }
             }
         ?>
     </body>
