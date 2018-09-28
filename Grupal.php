@@ -20,6 +20,9 @@
                 function grupal_4(){
                     echo "algo";
                 }
+                function grupalalex(){
+                    echo "yeee";
+                }
             }  
         ?>
     </body>
