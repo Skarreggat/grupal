@@ -21,6 +21,9 @@
                 function metodo3(){
                     //codigo3
                 }
+                function fantasma(){
+                    echo "fantasmita 11";
+                }
             }
         ?>
     </body>
