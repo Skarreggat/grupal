@@ -18,7 +18,7 @@
                     echo "Dani";
                 }
                 function grupal_4(){
-                    echo "algo diferente";
+                    echo "algrrente";
                 }
                 function grupalalex(){
                     echo "yeee";
