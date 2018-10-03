@@ -8,6 +8,8 @@ class Dani {
 
     function Danielsito() {
         
+        echo "Patatas";
+        
     }
 
     function Ismaelito() {
