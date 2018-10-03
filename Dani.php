@@ -8,7 +8,7 @@ class Dani {
 
     function Danielsito() {
         
-        echo "Patatas";
+        echo "Patatfdgfdbas";
         
     }
 
