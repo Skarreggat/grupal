@@ -7,7 +7,7 @@ class Dani {
     }
 
     function Danielsito() {
-        
+        echo 'klssdkjascs';
     }
 
     function Ismaelito() {
