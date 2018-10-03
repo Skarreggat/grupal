@@ -7,7 +7,9 @@ class Dani {
     }
 
     function Danielsito() {
-        echo 'Yeeeeee';
+        
+        echo 'Yeeee';
+        
     }
 
     function Ismaelito() {
